@@ -13,7 +13,7 @@
 (function() {
     'use strict';
 
-    fetch('https://teichoscopia.top/my/zh_titles.txt')
+    fetch('https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/zh_titles.txt')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');

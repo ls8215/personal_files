@@ -1,7 +1,7 @@
 //==UserScript==
 // @name         Douban_movie
 // @namespace    None
-// @version      0.102
+// @version      0.103
 // @description  Check if a movie has been downloaded or not
 // @author       Ls
 // @match        https://movie.douban.com/subject/*
@@ -16,7 +16,7 @@
     var infoElement = document.querySelector("#info");
     var infoText = infoElement.textContent.trim();
     var extractedString = infoText.match(/tt\d+/);
-    fetch('https://teichoscopia.top/my/imdb_ids.txt')
+    fetch('https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/imdb_ids.txt')
         .then(response => {
             if (!response.ok) {
                 throw new Error('Network response was not ok');
