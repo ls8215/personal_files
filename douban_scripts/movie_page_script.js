@@ -5,8 +5,8 @@
 // @description  Check if a movie has been downloaded or not
 // @author       Ls
 // @match        https://movie.douban.com/subject/*
-// @updateURL    https://teichoscopia.top/my/movie_page_script.js
-// @downloadURL  https://teichoscopia.top/my/movie_page_script.js
+// @updateURL    https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/movie_page_script.js
+// @downloadURL  https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/movie_page_script.js
 // @grant        none
 // ==/UserScript==
 

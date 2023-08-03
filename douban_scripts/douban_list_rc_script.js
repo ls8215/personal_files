@@ -5,8 +5,8 @@
 // @description  Check if movies downloaded in a douban list
 // @author       Ls
 // @match        https://movie.douban.com/subject/*
-// @updateURL    https://teichoscopia.top/my/douban_list_rec_script.js
-// @downloadURL  https://teichoscopia.top/my/douban_list_rec_script.js
+// @updateURL    https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/douban_list_rec_script.js
+// @downloadURL  https://raw.githubusercontent.com/ls8215/personal_files/main/douban_scripts/douban_list_rec_script.js
 // @grant        none
 // ==/UserScript==
 
