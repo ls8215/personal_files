@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,reddit.com
